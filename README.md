@@ -2,7 +2,7 @@
 
 In this app, we'll use mouse movement to highlight tabs. We'll also use the [React Router](https://reacttraining.com/react-router/) to route between tabs.
 
-[View WebApp](https://ghana7989.github.io/browser-taabs)
+[View WebApp](https://ghana7989.github.io/browser-tabs)
 
 ## React skills used in this app
 
